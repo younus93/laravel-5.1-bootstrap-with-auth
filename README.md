@@ -1,4 +1,5 @@
 #Laravel 5.1 with Auth and Twitter Bootstrap
+Laravel 5.1 framework with a standard twitter bootstrap master page and the necessary Auth view files.
 
 ### Getting started
 
